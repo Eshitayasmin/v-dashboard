@@ -8,7 +8,7 @@ const Home = () => {
         <div className='w-full bg-gray-100 h-full p-4'>
             <div className='flex justify-between'>
                 <div className=''>
-                    <p className='text-lg font-medium'>Good Morning Anna!</p>
+                    <p className='text-lg font-medium'>Good Morning Eshita!</p>
                     <p className='text-sm'>Here's what's happening with your store today.</p>
                 </div>
 

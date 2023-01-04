@@ -1,1 +1,7 @@
-
+.dotted-border{
+    padding: 2px;
+    background-image: linear-gradient(to right, rgba(51, 51, 51, 0.641) 10%, rgba(255, 255, 255, 0) 0%);
+    background-position: top;
+    background-size: 6px 1px;
+    background-repeat: repeat-x;
+}
